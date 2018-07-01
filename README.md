@@ -49,6 +49,7 @@ Esta interfaz como base fue hecha mediante Figma:
 
 [![UX RESEARCH](/ux-research/Figma.gif)]
 
+## Argumentación del Diseño Visual
 
 
 
