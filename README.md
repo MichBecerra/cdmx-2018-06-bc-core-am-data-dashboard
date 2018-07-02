@@ -47,12 +47,29 @@ Derivado de estas consideraciones, la interfaz del producto se desarrolló de la
 
 Esta interfaz como base fue hecha mediante Figma:
 
-[![UX RESEARCH](/ux-research/Figma.gif)]
+[![UX RESEARCH](/ux-research/Animated GIF-downsized_large.gif)]
 
 ## Argumentación del Diseño Visual
 
+El objetivo de éste proyeto es crear un objeto cuya funcionalidad sea brindar datos duros sobre los avances de las estudiantes a través de una interfaz gráfica que sea sencilla, intuitiva y fácil de usar. 
+Este producto esta diseñado para las Training Manager de Laboratoria que tienen la necesidad de revisar los avances y el progreso general y particular de las estudiantes de su propia sede y de las  otras sedes de Laboratoria, en este recurso se mostrará el avance del uso de la plataforma de aprendizaje LMS (Learning Managment System), se busca mostrar los datos del avance promedio de cada generación, también se encontrará información más específica del promedio de uso por unidad y por subtema, también es importante mostrar el avance individual y detallado de cada estudiante.
 
+Debido a que éste Data Dashboard se consultará continuamente por las Training Manager debe ser un objeto que sea fácil de navegar, cuya arquitectura del diseño sea entendible y que los datos que se muestren sea visibles y las gráficas o tablas sean de fácil comprensión, partiendo del echo de que este proyecto es para las Training Manager el diseño se apega a los colores y tipos de letra institucionales, esto con la finadidad de que sea una creación que se identifique con la marca de Laboratoria. Existen colores y tipos de letra que no corresponden a los colores institucionales de Laboratoria, estos elementos son las aportaciones que como equipo damos a la imagen del Data DashBoard para las Training Manager de Laboratoria.
 
+Tabla de especificaciones de los recursos utilizados para el producto.
+
+              |                | Tipo de Letra | Tipo de Letra  |               |     
+              | Color de Fondo | encabezados   | contenidos     |   Imagenes    |
+--------------|----------------|---------------|----------------|---------------|
+Pantalla 1    |    #FFE521     | " Oswald", sans-serif|         |Laboratoria_isotipo_RGB-02.png |
+Pantalla 2    |    #FFE521     | " Bitter", serif | "Open", sans regular | L_RGB_-01.png |
+Pantalla 3    |    #FFFFFF     | " Bitter", serif | "Open", sans regular | L_RGB_-01.png |
+Pantalla 4    |    #595959     | " Bitter", serif | "Open", sans regular | L_RGB_-01.png |
+
+Con la propuesta grafica que proponemos, buscamos hacer un balance entre el la cantidad de textos y los gráficos, por lo que se crea un producto estético y amable con el usuario. En cuanto a los gráficos buscamos que sean fáciles de enteder y muy concisos en cuanto a la información que se quiere mostrar. Es importante recalcar que la información que se mostrará en el Data DashBoard será únicamente la vertida en el documento laboratoria.jason.
+Se muestra la propuesta gráfica del prototipo de Alta Fidelidad, se realizo en la plataforma FIGMA.
+
+![UX RESEARCH](/ux-research/Animated GIF-downsized_large.gif)
 _____
 Por cubrir:
 ## Tópicos a cubrir
