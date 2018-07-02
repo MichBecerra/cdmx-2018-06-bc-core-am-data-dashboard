@@ -58,8 +58,7 @@ Debido a que éste Data Dashboard se consultará continuamente por las Training 
 
 Tabla de especificaciones de los recursos utilizados para el producto.
 
-              |                | Tipo de Letra | Tipo de Letra  |               |     
-              | Color de Fondo | encabezados   | contenidos     |   Imagenes    |
+              | Color de Fondo| Tipo de Letra:encabezados| Tipo de Letra: contenidos| Imagenes |     
 --------------|----------------|---------------|----------------|---------------|
 Pantalla 1    |    #FFE521     | " Oswald", sans-serif|         |Laboratoria_isotipo_RGB-02.png |
 Pantalla 2    |    #FFE521     | " Bitter", serif | "Open", sans regular | L_RGB_-01.png |
