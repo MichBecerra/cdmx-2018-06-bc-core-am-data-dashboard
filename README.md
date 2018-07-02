@@ -25,6 +25,7 @@ Por ello, la planeación del proceso de diseño del producto se organizó de la 
 
 2º producción del primer Sketch del producto 
 [![UX RESEARCH](/ux-research/GIFsketch1.gif)]
+[![UX RESEARCH](/ux-research/Gifsketch1 GIF-downsized_large.gif)]
 
 3ª Presentación del primer Sketch del producto a usuarios 
 
@@ -59,7 +60,7 @@ Debido a que éste Data Dashboard se consultará continuamente por las Training 
 Tabla de especificaciones de los recursos utilizados para el producto.
 
               | Color de Fondo| Tipo de Letra:encabezados| Tipo de Letra: contenidos| Imagenes |     
---------------|----------------|---------------|----------------|---------------|
+--------------|---------------|--------------------------|--------------------------|----------|
 Pantalla 1    |    #FFE521     | " Oswald", sans-serif|         |Laboratoria_isotipo_RGB-02.png |
 Pantalla 2    |    #FFE521     | " Bitter", serif | "Open", sans regular | L_RGB_-01.png |
 Pantalla 3    |    #FFFFFF     | " Bitter", serif | "Open", sans regular | L_RGB_-01.png |
@@ -68,7 +69,7 @@ Pantalla 4    |    #595959     | " Bitter", serif | "Open", sans regular | L_RGB
 Con la propuesta grafica que proponemos, buscamos hacer un balance entre el la cantidad de textos y los gráficos, por lo que se crea un producto estético y amable con el usuario. En cuanto a los gráficos buscamos que sean fáciles de enteder y muy concisos en cuanto a la información que se quiere mostrar. Es importante recalcar que la información que se mostrará en el Data DashBoard será únicamente la vertida en el documento laboratoria.jason.
 Se muestra la propuesta gráfica del prototipo de Alta Fidelidad, se realizo en la plataforma FIGMA.
 
-![UX RESEARCH](/ux-research/Animated GIF-downsized_large.gif)
+[![UX RESEARCH](/ux-research/Animated GIF-downsized_large.gif)]
 _____
 Por cubrir:
 ## Tópicos a cubrir
