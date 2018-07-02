@@ -1,40 +1,35 @@
+//Se crea el objeto dataDashboard como método del objeto window
+window.dataDashboard = {
 
-let clicking = function(){
-fetch(datos).then(function(enlace){
-return datos.json();
-}).then(function(sedes){
-    console.log(sedes.lima[0].generacion.tercera);
-    let gen = sedes.lima[0].generacion.tercera;
-    console.log(gen);
-    let gen2 = sedes.lima[0].generacion.cuarta;
-    console.log(gen2);
-})
-console.log(datos);
+getData : (laboratoria) =>  {
+//Realizar enlace fetch con arrow function
+const gettingFetch = () => {
+    fetch(laboratoria).then((response) => {response.json(); })
+//se ejecuta como .json
+    .then((sedes) => {
+//Debe enlazar la funcion al click en "sedes1" activado
+        const chooseSede =
+    })
 }
-/*computeStudentsStats: (laboratoria) => {
 
+const computeStudentsStats = (laboratoria) => {
+
+}
+
+const computeGenerationsStats = (laboratoria) => {
+
+
+}
+
+const sortStudents = (students, orderBy, orderDirection) => {
+
+}
+
+const filterStudents = (students, search) => {
+
+}
+
+//se cierra el método getData del objeto dataDashboard
+}
+//cierre del objeto window
 };
-
-computeGenerationsStats: (laboratoria) => {
-
-};
-
-sortStudents: (students, orderBy, orderDirection) => {
-
-};
-
-/* La función sortStudents() se encarga de ordenar la lista de estudiantes creada con computeStudentsStats() 
-en base a orderBy y orderDirection.
-
-Argumentos
-
-students: Arreglo de objetos creado con computeStudentsStats().
-orderBy: String que indica el criterio de ordenado. Debe permitir ordenar por nombre y porcentaje de completitud.
-orderDirection: La dirección en la que queremos ordenar. Posibles valores: ASC y DESC (ascendente y descendente).
-Valor de retorno
-
-Arreglo de estudiantes ordenado.
-
-filterStudents: (students, search) => {
-
-}; */

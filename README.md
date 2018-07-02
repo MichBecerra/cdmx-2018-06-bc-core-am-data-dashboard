@@ -25,7 +25,6 @@ Por ello, la planeación del proceso de diseño del producto se organizó de la 
 
 2º producción del primer Sketch del producto 
 [![UX RESEARCH](/ux-research/GIFsketch1.gif)]
-[![UX RESEARCH](/ux-research/Gifsketch1 GIF-downsized_large.gif)]
 
 3ª Presentación del primer Sketch del producto a usuarios 
 
@@ -48,7 +47,7 @@ Derivado de estas consideraciones, la interfaz del producto se desarrolló de la
 
 Esta interfaz como base fue hecha mediante Figma:
 
-[![UX RESEARCH](/ux-research/Animated GIF-downsized_large.gif)]
+[![UX RESEARCH](/ux-research/Figma.gif)]
 
 ## Argumentación del Diseño Visual
 
@@ -72,7 +71,7 @@ Tabla de especificaciones de los recursos utilizados para el producto.
 Con la propuesta grafica que proponemos, buscamos hacer un balance entre el la cantidad de textos y los gráficos, por lo que se crea un producto estético y amable con el usuario. En cuanto a los gráficos buscamos que sean fáciles de enteder y muy concisos en cuanto a la información que se quiere mostrar. Es importante recalcar que la información que se mostrará en el Data DashBoard será únicamente la vertida en el documento laboratoria.jason.
 Se muestra la propuesta gráfica del prototipo de Alta Fidelidad, se realizo en la plataforma FIGMA.
 
-[![UX RESEARCH](/ux-research/Animated GIF-downsized_large.gif)]
+[![UX RESEARCH](/ux-research/Figma.gif)]
 _____
 Por cubrir:
 ## Tópicos a cubrir
@@ -551,25 +550,4 @@ Para facilitar la lectura del JSON te recomendamos instalar algún plugin en tu
 navegador o visitar un JSON parser online:
 
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
-
-* [JSON Editor Online](https://jsoneditoronline.org/)
-
-
-## Tips / Pistas
-
-* [Array en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
-* [Array.sort en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/sort)
-* [Array.map en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/map)
-* [Array.filter en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter)
-* [Array.reduce en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduce)
-* [Array.forEach en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/forEach)
-* [Object.keys en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object/keys)
-* [Object.entries en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object/entries)
-* [XMLHttpRequest en MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
-* [Fetch API en MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-* [json.org](https://json.org/json-es.html)
-* [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
-
-Vania mi bolsillo esta cada vez màs vacio. Voy a traer panque de Romero con Miel. Voy aComprar estevia natural en el mercado o en las tiendas naturistas. como te diste cuanta de la alergia del azucar.
-
-Michele, trae muchos panqués de miel con romero y de semillas, de todos. jaja. 
+ 
